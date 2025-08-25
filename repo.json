@@ -1,20 +1,20 @@
 [
 	{
-	  "Author": "Yuki",
-	  "Name": "Ants Again",
-	  "Description": "More ability ants more of the time",
-	  "InternalName": "AntsAgain",
-	  "AssemblyVersion": "1.0.0.0",
-	  "RepoUrl": "https://github.com/Yuki-Codes/AntsAgain",
-	  "ApplicableVersion": "any",
-	  "Tags": [],
-	  "DalamudApiLevel": 13,
-	  "IsHide": "False",
-	  "IsTestingExclusive": "False",
-	  "LastUpdated": 0,
-	  "DownloadCount": 0,
-	  "DownloadLinkInstall": "https://github.com/Yuki-Codes/AntsAgain/releases/download/v1/AntsAgain.zip",
-	  "DownloadLinkTesting": "https://github.com/Yuki-Codes/AntsAgain/releases/download/v1/AntsAgain.zip",
-	  "DownloadLinkUpdate": "https://github.com/Yuki-Codes/AntsAgain/releases/download/v1/AntsAgain.zip"
+		"Author": "Yuki",
+		"Name": "Ants Again",
+		"Description": "More ability ants more of the time",
+		"InternalName": "AntsAgain",
+		"AssemblyVersion": "1.0.0.0",
+		"RepoUrl": "https://github.com/Yuki-Codes/AntsAgain",
+		"ApplicableVersion": "any",
+		"Tags": [],
+		"DalamudApiLevel": 13,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"LastUpdated": 0,
+		"DownloadCount": 0,
+		"DownloadLinkInstall": "https://github.com/Yuki-Codes/AntsAgain/releases/download/v2/AntsAgain.zip",
+		"DownloadLinkTesting": "https://github.com/Yuki-Codes/AntsAgain/releases/download/v2/AntsAgain.zip",
+		"DownloadLinkUpdate": "https://github.com/Yuki-Codes/AntsAgain/releases/download/v2/AntsAgain.zip"
 	}
 ]
