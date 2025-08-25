@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Numerics;
 using Dalamud.Interface.Textures;
 using Dalamud.Interface.Textures.TextureWraps;
-using ImGuiNET;
+using Dalamud.Bindings.ImGui;
 using Lumina.Excel;
 using Lumina.Excel.Sheets;
 using XivAction = Lumina.Excel.Sheets.Action;
@@ -105,7 +105,7 @@ public class ConfigWindow
 				GameIconLookup lookup = new GameIconLookup(action.Icon);
 				IDalamudTextureWrap? tw = DalamudPlugin.TextureProvider.GetFromGameIcon(lookup).GetWrapOrDefault();
 				if(tw != null)
-					ImGui.Image(tw.ImGuiHandle, new Vector2(32, 32));
+					ImGui.Image(tw.Handle, new Vector2(32, 32));
 
 				ImGui.SameLine();
 				ImGui.Text($"{action.Name} ({actionId})");
