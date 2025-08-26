@@ -17,7 +17,7 @@
 		<PublishTrimmed>false</PublishTrimmed>
 		<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
 		<Deterministic>false</Deterministic>
-		<AssemblyVersion>1.0.0.0</AssemblyVersion>
+		<AssemblyVersion>1.0.0.1</AssemblyVersion>
 		<DalamudLibPath>$(appdata)\XIVLauncher\addon\Hooks\dev\</DalamudLibPath>
 		<Platforms>x64</Platforms>
 	</PropertyGroup>
